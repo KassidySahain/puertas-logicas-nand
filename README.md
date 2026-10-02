@@ -47,6 +47,10 @@ No requiere instalación local.
 El informe incluye capturas de los circuitos, sus validaciones
 y respuestas a las preguntas de análisis.
 
+### Circuito XOR
+
+<img width="959" height="394" alt="Captura de pantalla 2026-09-17 163626" src="https://github.com/user-attachments/assets/95055dbe-e012-4b4f-bd31-112e8e8a46e0" />
+
 [Consultar el informe completo](./informe-puertas-logicas.pdf.pdf)
 
 ## Aprendizajes

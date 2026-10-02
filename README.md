@@ -47,7 +47,7 @@ No requiere instalación local.
 El informe incluye capturas de los circuitos, sus validaciones
 y respuestas a las preguntas de análisis.
 
-[Consultar el informe completo](./informe-puertas-logicas.pdf)
+[Consultar el informe completo](./informe-puertas-logicas.pdf.pdf)
 
 ## Aprendizajes
 
